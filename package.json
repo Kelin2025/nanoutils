@@ -9,8 +9,8 @@
   "license": "MIT",
   "config": {
     "ghooks": {
-      "pre-commit":
-        "npm run size && git add SIZES.md"
+      "pre-push":
+        "npm run size && git add SIZES.md && git commit --amend --no-edit"
     }
   },
   "scripts": {

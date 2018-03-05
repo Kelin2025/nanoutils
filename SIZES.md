@@ -44,6 +44,7 @@
 | difference | 415 B | 1561 B | -1146 B |
 | differenceWith | 124 B | 424 B | -300 B |
 | divide | 82 B | 230 B | -148 B |
+| doWhile | 112 B | n/a B | n/a B |
 | drop | 139 B | 782 B | -643 B |
 | dropLast | 142 B | 983 B | -841 B |
 | dropLastWhile | 141 B | 1443 B | -1302 B |
@@ -127,7 +128,6 @@
 | takeLastWhile | 140 B | 528 B | -388 B |
 | takeWhile | 135 B | 822 B | -687 B |
 | throttle | 72 B | n/a B | n/a B |
-| til | 114 B | n/a B | n/a B |
 | times | 106 B | 326 B | -220 B |
 | toArray | 39 B | n/a B | n/a B |
 | unapply | 301 B | 161 B | +140 B |
